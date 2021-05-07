@@ -1,0 +1,88 @@
+{
+    "frames": {
+        "fe-attack1.png" :{
+            "frame" : {"x":0,"y":0,"w":82,"h":150},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":200},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-attack2.png" :{
+            "frame" : {"x":100,"y":0,"w":84,"h":150},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":200},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-attack3.png" :{
+            "frame" : {"x":184,"y":0,"w":152,"h":150},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":200},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-attack4.png" :{
+            "frame" : {"x":342,"y":0,"w":80,"h":150},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":200},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-attack5.png" :{
+            "frame" : {"x":430,"y":0,"w":88,"h":150},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":200},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-attack6.png" :{
+            "frame" : {"x":540,"y":0,"w":82,"h":150},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":200},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-attack7.png" :{
+            "frame" : {"x":627,"y":0,"w":80,"h":150},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":200},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-attack11.png":{
+            "frame" : {"x":0,"y":0,"w":82,"h":148}
+        },
+        "fe-attack12.png":{
+            "frame" : {"x":107,"y":0,"w":71,"h":148}
+        },
+        "fe-attack13.png":{
+            "frame" : {"x":193,"y":0,"w":91,"h":148}
+        },
+        "fe-stand1.png" :{
+            "frame" : {"x":0,"y":0,"w":81,"h":148},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":150},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-stand2.png" :{
+            "frame" : {"x":87,"y":0,"w":81,"h":148},
+            "rotated" : false,
+            "trimmed" : false,
+            "spriteSourceSize" : {"x":0,"y":0,"w":200,"h":150},
+            "sourceSize" : {"w":200,"h":200}
+        },
+        "fe-hurt1.png":{
+            "frame" : {"x":0,"y":0,"w":95,"h":154}
+        },
+        "fe-hurt2.png":{
+            "frame" : {"x":105,"y":0,"w":105,"h":154}
+        },
+        "fe-hurt3.png":{
+            "frame" : {"x":218,"y":0,"w":142,"h":154}
+        },
+        "fe-hurt4.png":{
+            "frame" : {"x":384,"y":0,"w":156,"h":154}
+        }
+    }
+}
